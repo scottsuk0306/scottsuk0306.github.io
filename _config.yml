@@ -5,7 +5,7 @@ url: "https://scottsuk0306.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Scott Suk's Blog
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -22,7 +22,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: scottsuk0306@kaist.ac.kr # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
