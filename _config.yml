@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Blog is currently under maintenance. Sorry for the inconvenience.</p>
+     <p>Welcome to my blog!</p>
   header_text_feature_image: assets/img/header_feature_image.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
