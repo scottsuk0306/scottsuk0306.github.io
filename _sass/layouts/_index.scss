@@ -4,8 +4,9 @@
   display: inline-block;
   width: 100%;
   background-color:$header-desc-background-color;
-  background-size: auto; // cover
-  font-size: 1.2em;
+  background-size: cover;
+  font-style: Georgia;
+  font-size: 1.5em;
   text-align: center;
   color: $header-desc-text-color;
 }
