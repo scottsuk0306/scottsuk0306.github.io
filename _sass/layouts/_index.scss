@@ -2,10 +2,9 @@
 .call-out {
   @extend %padding-regular;
   display: inline-block;
-  width: 200%;
+  width: 100%;
   background-color:$header-desc-background-color;
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: cover;
   font-style: Georgia;
   font-size: 1em;
   text-align: center;
