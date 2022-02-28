@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Welcome to my blog!</h1>
+     <h2>Welcome to my blog!</h2>
   header_text_feature_image: assets/img/header_pattern_image.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
