@@ -9,8 +9,8 @@ feature-img: "assets/img/sample_feature_img.png"
 Last Updated. 2021/08/30
 
 ## Hi, I'm Ju Young Suk (Scott Suk)👋
-- I am a student majoring Computer Science and submajoring Electrical Engineering at [**KAIST**](https://www.kaist.ac.kr/en/).
-- I am interested in Machine Learning and Natural Language Processing.
+- I am a student majoring Computer Science at [**KAIST**](https://www.kaist.ac.kr/en/).
+- I am interested in Systems for Machine Learning, Natural Language Processing, ML in production, and MLOps
 
 ---
 
