@@ -1,7 +1,5 @@
 ---
-layout: post
-date: 2022-07-04 15:00
-category: paper
+layout: post 
 title: How to Read Papers by Andrew Ng
 tags: [paper, fundamental, Computer Science, ML, DL, Machine Learning, Deep Learning]
 ---
