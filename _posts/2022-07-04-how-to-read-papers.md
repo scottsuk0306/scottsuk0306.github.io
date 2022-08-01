@@ -26,19 +26,19 @@ In the case of Andrew Ng, he always take research papers with him. He does resea
 
 It is not a good idea to read from the first word to the last word. Focus on the main idea. Then, look at math.
 
-1. **Read Title / Abstract / Figure**
+**1. Read Title / Abstract / Figure**
    
    In deep learning field, there are some research papers that try to summarize all contents in one or two figures.
-2. **Intro + Conclusion + Figure + Skim rest (Skim related work)**
+**2. Intro + Conclusion + Figure + Skim rest (Skim related work)**
 
    
    Publishing a paper is a procedure to prove this paper is good enough to be accepted by reviewers. So, authors write the introductiona and conclusion very carefully for reviewers.
-3. **Read but skip, skim math**
-4. **Read all but skip the part you can’t understand.**
+**3. Read but skip, skim math**
+**4. Read all but skip the part you can’t understand.**
    
    Even the papers with highest citations have unimportant parts.
-5. **Try to answer the following questions. Share your answers with others.**
-   - **What did authors try to accomplish?**
-   - **What were the key elements of the approach?**
-   - **What can you use yourself?**
-   - **What other references do you want to follow?**
+**5. Try to answer the following questions. Share your answers with others.**
+   - What did authors try to accomplish?
+   - What were the key elements of the approach?
+   - What can you use yourself?
+   - What other references do you want to follow?
