@@ -4,7 +4,7 @@ title: How to Read Papers by Andrew Ng
 tags: [paper, fundamental, Computer Science, ML, DL, Machine Learning, Deep Learning]
 ---
 
-Main content for this blog will be the summary of papers I read related to Computer Science. But before I start reading the papers, I wanted to make a guideline for myself on how to `correctly` read papers. So, I had watched [Andrew Ng’s Career Advice](https://www.youtube.com/watch?v=733m6qBH-jI) video and summarizing it here for myself in the future and for anyone who are just beginning to read a research paper.
+Main content for this blog will be the summary of papers I read related to Computer Science. But before I start reading the papers, I wanted to make a guideline for myself on how to `correctly` read papers. So, I had watched [Andrew Ng’s Career Advice](https://www.youtube.com/watch?v=733m6qBH-jI) video and summarized it here for myself in the future and for anyone who are just beginning to read a research paper.
 
 ## How to read papers on specfic field
 
