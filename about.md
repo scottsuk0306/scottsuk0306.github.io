@@ -6,7 +6,7 @@ feature-img: "assets/img/sample_feature_img.png"
 ---
 <p align="center"><img src="/assets/img/profile_pic_cropped.jpg"></p>
  
-Last Updated. 2021/08/30
+Last Updated. 2022/08/30
 
 ## Hi, I'm Ju Young Suk (Scott Suk)👋
 - I am a student majoring Computer Science at [**KAIST**](https://www.kaist.ac.kr/en/).

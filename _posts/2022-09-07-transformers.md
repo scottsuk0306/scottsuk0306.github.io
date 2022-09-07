@@ -1,18 +1,7 @@
 ---
 layout: post
-title: [Paper Review] Attention Is All You Need
-
-tags:
-  [
-    paper,
-    attention,
-    transformers,
-    nlp,
-    sequence modeling,
-    rnn,
-    lstm,
-    gru,
-  ]
+title: \[Paper Review\] Attention Is All You Need
+tags: [paper, attention, transformers,nlp, sequence modeling, rnn, lstm, gru]
 ---
 
 # [Paper Review] Attention Is All You Need
