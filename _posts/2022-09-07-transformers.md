@@ -17,7 +17,7 @@ tags:
 
 # [Paper Review] Attention Is All You Need
 
-ln this posting, I will very briefly review the paper Attention Is All You Need with some implementation details. I first want to summarize the whole paper by answering the following questions. Those questions are adopted from Andrew Ng’s career advice. You can see it here, too.
+ln this posting, I will very briefly review the paper Attention Is All You Need. I first want to summarize the whole paper by answering the following questions. Those questions are adopted from Andrew Ng’s career advice. You can see it [here](https://scottsuk0306.github.io/2022/07/04/how-to-read-papers.html), too.
 
 If you want rigorous mathematical details about the transformer architecture and multi-head attention, I recommend you to move onto the original paper after reading this post.
 
