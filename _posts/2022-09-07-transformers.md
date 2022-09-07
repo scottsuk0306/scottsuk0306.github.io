@@ -21,21 +21,21 @@ ln this posting, I will very briefly review the paper Attention Is All You Need.
 
 If you want rigorous mathematical details about the transformer architecture and multi-head attention, I recommend you to move onto the original paper after reading this post.
 
-- What did authors try to accomplish?
+## What did authors try to accomplish?
   
   For sequence modeling and transduction problems, recurrent neural networks were widely used and have been state-of-the-art approach for an amount of time. However, it works as sequentially and the constraint of sequential computation has not been resolved for a long time.
   
   The authors proposed the Transformer, eschewing recurrence and depend entirely on attention mechanism. It allows significantly more parallelization and can reach a new state of the art in translation quality.
 
-- What were the key elements of the approach?
+## What were the key elements of the approach?
   
   I think the model architecture of Transformer is the key element of the approach. Focusing at how authors dealt with sequential modeling without sequential computation is anohter important aspect of the whole paper.
 
-- What can you use yourself?
+## What can you use yourself?
   
   I’m interested in solving general NLP problems. Currently, I’m into question answering and information retrieval. I briefly know that current NLP research trends are highly dependent on transformers, but only in NLP but also Vision, Graphs, and so much more. I would like to use Transformers, or Transformer-based models for my side project.
 
-- What other references do you want to follow?
+## What other references do you want to follow?
   
   1. After realizing the great amount of potential inside transformers, I became really curious about the impact of Transformers and the research trends throughout the whole field. To resolve my curiousity, I’m planning to read some survey papers on transformers.
      - [Survey of Transformers](https://arxiv.org/abs/2106.04554)
